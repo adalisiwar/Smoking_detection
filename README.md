@@ -5,7 +5,7 @@ This beginner-friendly project uses basic image processing and motion analysis t
 
 ## 📽️ Demo
 
-▶️ [Watch Demo Video](DEMO_video.mp4)
+▶️ [Watch Demo Video] (https://drive.google.com/file/d/1WmtxETFAkYsbXaRbmHAl8xohkaCa48wy/preview)
 
 This test video demonstrates how the system detects smoking-like behavior in a pre-recorded clip.
 

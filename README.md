@@ -1,2 +1,20 @@
-# Smoking_detection
-This is a Python-based computer vision project that detects smoking behavior in video footage using OpenCV. The system analyzes frames from a video to detect potential smoking activities without relying on a pre-existing dataset.
+# 🚭 Smoking Detection with Computer Vision
+
+
+This beginner-friendly project uses basic image processing and motion analysis techniques to identify smoking gestures in a video. The goal is to provide a lightweight, dataset-free approach that can later be enhanced with machine learning or deep learning models.
+
+## 📽️ Demo
+
+▶️ [Watch Demo Video](DEMO_video.mp4)
+
+This test video demonstrates how the system detects smoking-like behavior in a pre-recorded clip.
+
+## 🧠 How It Works
+
+- 📽️ Reads the video **frame-by-frame** using OpenCV.
+- 🔄 Applies basic **frame differencing** and/or **color detection** logic.
+- 🚬 Flags **smoking-like motion patterns or zones** visually.
+- 🎯 Highlights the area on screen if **smoking behavior** is suspected.
+
+> ⚠️ This is a **basic prototype** and may produce **false positives**.  
+> It can be improved by training a **deep learning model** for more accurate results.

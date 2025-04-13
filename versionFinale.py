@@ -5,7 +5,7 @@ from cvzone.HandTrackingModule import HandDetector
 hand_detector = HandDetector(detectionCon=0.8, maxHands=2)
 
 # l video li bch ntestiw bih
-cap = cv2.VideoCapture(r"C:\Users\adali\OneDrive\Desktop\computer vision project\smoker3.mp4")
+cap = cv2.VideoCapture(r"C:\Users\adali\OneDrive\Desktop\computer vision project\smoker_guy.mp4")
 
 # cigarette color detection 
 lower_orange = np.array([10, 160, 160])
